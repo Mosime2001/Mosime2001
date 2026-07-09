@@ -16,10 +16,17 @@ I am a detail-oriented Software Quality Engineer with hands-on experience in per
 ## 📜 Certifications
 
 - OpenText Loadrunner Professional Developer
+- OpenText DevOps Sales Certifications
+- HP LIFE Online Course – Agile Project Management
+- Artificial Intelligence in the 4th Industrial Revolution, Online Learning
+- Basic Training On Network Security Management
 
 ---
 
 ## 🚀 Featured Projects
+
+### End-to-end Performance Testing Project
+Performance test for Advantage Online Shopping Store Dummy Website
 
 ### Debt Analysis Project
 Analysis of debt sustainability between Botswana and Mozambique using statistical methods and data visualization.
