@@ -31,8 +31,8 @@ Performance test for Advantage Online Shopping Store Dummy Website
 ### Debt Analysis Project
 Analysis of debt sustainability between Botswana and Mozambique using statistical methods and data visualization.
 
-### Software Development Projects
-Java, Python, and C# applications focused on problem-solving and software engineering principles.
+### Software Development Project(Front-end Dev)
+HTML, CSS, JavaScript application focused on problem-solving and sharperning my skills in software engineering principles.
 
 ---
 
